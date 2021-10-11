@@ -20,3 +20,7 @@
 |07 Wide and Deep|[실습 + 연습문제](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_7_Wide_and_Deep.ipynb)|Classifying Diabetes with deep nets(More than 10 layers)|
 |08 PyTorch DataLoader|[실습](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_8_DataLoader.ipynb) / [연습문제](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_8_DataLoader_exercise.ipynb)|Build DataLoader for Titanic dataset & Classifier using the DataLoader|
 |09 Softmax Classifier|[실습](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_9_Softmax_Classifier.ipynb) / [연습문제](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_9_Softmax_Classifier_exercise.ipynb)|Build a softmax classifier for Otto Group Product|
+|10 Basic CNN|[실습](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_10_Basic_CNN.ipynb)| |
+|11 Advanced CNN|[실습](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_11_Advanced_CNN.ipynb)| |
+|12 RNN1|[실습](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_12_RNN1.ipynb)| |
+|13 RNN2|[실습](https://github.com/mori8/NLP-Pytorch-practice/blob/main/pytorch_lecture/Chapter_13_RNN2.ipynb)| |
